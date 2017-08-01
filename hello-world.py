@@ -1,2 +1,2 @@
-print("hello world")
-print("this is brnhc master and i may have fucked up")
+print("This is a git branch")
+"This is branch master"
